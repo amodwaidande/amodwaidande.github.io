@@ -5,6 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
+  --blue: #007bff;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -361,7 +362,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #007bff; }
+  background-color: #fcf8e3; }
 
 .list-unstyled {
   padding-left: 0;
