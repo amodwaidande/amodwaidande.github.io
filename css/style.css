@@ -133,7 +133,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #007bff;
+  color: hsl(0, 0%, 100%);
   text-decoration: none;
   background-color: transparent; }
   a:hover {
